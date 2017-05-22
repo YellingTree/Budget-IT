@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Cost for Website.html",
+    "currentPage": "Websites.html",
     "name": "Budget IT",
     "theme": {
       "name": "mobirise3",
@@ -1488,9 +1488,10 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://yellingtree.github.io/4-Most-Supply/",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "4 Most Supply",
@@ -1504,9 +1505,10 @@
               "name": "devices",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title3": "Budget IT",
