@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Websites.html",
+    "currentPage": "Cost for Website.html",
     "name": "Budget IT",
     "theme": {
       "name": "mobirise3",
@@ -607,12 +607,14 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "desktop",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title1": "Desktops",
@@ -626,8 +628,9 @@
               "name": "laptop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Laptops",
@@ -641,8 +644,9 @@
               "name": "tablet",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Other Windows Devices",
@@ -1742,12 +1746,14 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "desktop",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title1": "Compleat setup",
@@ -1761,8 +1767,9 @@
               "name": "sale",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Recommendations",
@@ -1776,8 +1783,9 @@
               "name": "success",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Complete assembly",
@@ -1791,8 +1799,9 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title4": "Optional Delivery",
@@ -1919,9 +1928,10 @@
               "name": "mobile",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "title2": "Call or Text",
