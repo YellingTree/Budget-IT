@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Custom PCs.html",
     "name": "Budget IT",
     "theme": {
       "name": "mobirise3",
@@ -796,13 +796,15 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "phone",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title1": "Call or Text",
@@ -816,9 +818,10 @@
               "name": "paper-plane",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Email",
@@ -1543,7 +1546,7 @@
               "newWindow": false
             }
           },
-          "title1": "Compleat setup",
+          "title1": "Complete setup",
           "subtitle1": "You'll be given a fully working PC",
           "caption1": "You'll receive your computer in 100% working order",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -1828,7 +1831,7 @@
             "fourthType": ""
           },
           "title": "Pricing Range",
-          "subtitle": "Get what you need.<br>Prices and parts are sugestions. We build every PC to order",
+          "subtitle": "Get what you need.<br>Prices and parts are suggestions. We build every PC to order",
           "label1": "HOT!",
           "title1": "Office Computer",
           "subtitle1": "Basic web browsing and productivity",
