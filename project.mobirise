@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Cost for Website.html",
+    "currentPage": "index.html",
     "name": "Budget IT",
     "theme": {
       "name": "mobirise3",
@@ -22,11 +22,11 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 76,
+    "uniqCompNum": 80,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/budget-it-ico-128x128.png",
     "noImageResize": "",
     "cookiesAlert": ""
   },
@@ -34,8 +34,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Home- Budget IT",
+        "meta_descr": "Main drop page for Budget IT",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -65,13 +65,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -93,7 +93,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -150,7 +150,7 @@
           },
           "title": "Michael Havenga",
           "text": "Bringing low-cost solutions to expensive problems",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Computer Repair.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Repair</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Websites.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Websites</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Custom PCs.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-desktop mbr-iconfont mbr-iconfont-btn\"></span>Custom PCs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Phone Repair.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Phone Repair</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Computer Repair.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Repair</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Websites.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Websites</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Custom PCs.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-desktop mbr-iconfont mbr-iconfont-btn\"></span>Custom PCs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Phone Repair.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Phone Repair</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Phone Repair.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>Site Map</a> "
         },
         {
           "_name": "footer1",
@@ -201,13 +201,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -229,7 +229,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -515,13 +515,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -543,7 +543,7 @@
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -891,6 +891,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-23",
           "_params": {
             "labelsColor": "#232323",
@@ -936,12 +941,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_styles": {
@@ -967,13 +967,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -995,7 +995,7 @@
           "_name": "menu",
           "_anchor": "menu-4",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1031,219 +1031,6 @@
         {
           "_name": "footer1",
           "_anchor": "footer1-5",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Created by Michael Havenga with Mobirise"
-        }
-      ]
-    },
-    "Pricing Info.html": {
-      "settings": {
-        "title": "Pricing Info- Budget IT",
-        "meta_descr": "Info on pricing"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-6",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "devices",
-              "family": "MobiriseIcons",
-              "link": "index.html",
-              "size": 0,
-              "newWindow": false,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-plan-title": {
-              "font-size": "20px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-15",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "",
-            "thirdType": "",
-            "fourthType": ""
-          },
-          "title": "Repair Costs",
-          "subtitle": "Base rates for devices. Does <b><u>not</u></b> include parts.<br>Prices can change from customer to customer depending on damage.",
-          "label1": "HOT!",
-          "title1": "Laptop",
-          "subtitle1": "",
-          "currency1": "$",
-          "price1": "30",
-          "period1": "/per device.",
-          "description1": "We can fix your laptop and even upgrade the RAM or Hard Drive for just $30*<br>*<u>Does NOT include parts, Prices CAN change</u>",
-          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">No extra cost for RAM install</span><br><li class=\"list-group-item\">Free OS install</li><li class=\"list-group-item\">Free Quote</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
-          "label2": "HOT!",
-          "title2": "Desktop",
-          "subtitle2": "",
-          "currency2": "$",
-          "price2": "25",
-          "period2": "/per device.",
-          "description2": "We offer desktop part replacement and upgrading. We'll fix or repiar your desktop for just $25*<br>*<u>Does NOT include parts. Prices CAN change.</u>",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Free Parts Instation</li><li class=\"list-group-item\">Free OS install</li><li class=\"list-group-item\">Free Quote</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
-          "label3": "HOT!",
-          "title3": "Phone",
-          "subtitle3": "",
-          "currency3": "$",
-          "price3": "35",
-          "period3": "/per device.",
-          "description3": "We'll fix your screen using&nbsp;Genuine or Off-Brand parts for $35*<br>*<u>Does NOT include parts. Prices CAN change.</u>",
-          "list3": "<ul class=\"list-group list-group-flush\">Free Jailbreak<br><li class=\"list-group-item\">Free rooting for </li><li class=\"list-group-item\">Android<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Free Quote</span></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
-          "label4": "HOT!",
-          "title4": "Tablet / Other",
-          "subtitle4": "",
-          "currency4": "$",
-          "price4": "50",
-          "period4": "/per device.",
-          "description4": "We'll fix your screen using Genuine or Off-Brand parts for $50*<br><u>*Does NOT include parts. Prices CAN change.</u><br>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Free ROM for Android</li><li class=\"list-group-item\">Free Jailbreak</li><li class=\"list-group-item\">Free Quote</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-16",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#303030"
-          },
-          "text": "*Free options only availble with purchase (Excluding Quote). ROM install for select Android devices, Jailbreak only avalible to supported iPhones."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1g",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1349,13 +1136,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1377,7 +1164,7 @@
           "_name": "menu",
           "_anchor": "menu-a",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1501,7 +1288,7 @@
           "title2": "4 Most Supply",
           "subtitle2": "Currently In Development",
           "caption2": "4 Most is a Michigan construction supply company based in Traverse City.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://yellingtree.github.io/4-Most-Supply/index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Currently In Devlopment</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://yellingtree.github.io/4-Most-Supply/index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Awaiting Approval </a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -1648,13 +1435,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1676,7 +1463,7 @@
           "_name": "menu",
           "_anchor": "menu-d",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2237,13 +2024,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2265,7 +2052,7 @@
           "_name": "menu",
           "_anchor": "menu-w",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2479,13 +2266,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2507,7 +2294,7 @@
           "_name": "menu",
           "_anchor": "menu-z",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2545,6 +2332,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-1y",
           "_params": {
             "labelsColor": "#232323",
@@ -2590,12 +2382,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_tags": [
@@ -2656,7 +2443,7 @@
     },
     "Change Order.html": {
       "settings": {
-        "title": "Change Order- Buget IT",
+        "title": "Change Order- Budget IT",
         "meta_descr": "Change your order if you want to change parts or repairs"
       },
       "components": [
@@ -2684,13 +2471,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2712,7 +2499,7 @@
           "_name": "menu",
           "_anchor": "menu-12",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2784,6 +2571,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-21",
           "_params": {
             "labelsColor": "#232323",
@@ -2829,12 +2621,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_name": "footer1",
@@ -2885,13 +2672,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2913,7 +2700,7 @@
           "_name": "menu",
           "_anchor": "menu-1a",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3033,13 +2820,13 @@
               "color": "#c0a375"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3061,7 +2848,7 @@
           "_name": "menu",
           "_anchor": "menu-1f",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -3170,7 +2957,7 @@
           "price1": "25",
           "period1": "/per site.",
           "description1": "<b><u>URL NOT provided</u></b>",
-          "list1": "<ul class=\"list-group list-group-flush\"><p><span style=\"font-size: 14px; line-height: 50px;\">Free Quote</span><br></p><li class=\"list-group-item\">Free Website publish</li><li class=\"list-group-item\"><br></li><p></p></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><p>Free Quote</p><li class=\"list-group-item\">Free Website publish</li><li class=\"list-group-item\">Short development time</li><p></p></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label2": "HOT!",
           "title2": "Create Site",
@@ -3188,7 +2975,7 @@
           "price3": "50",
           "period3": "/mo.",
           "description3": "<u>URL NOT provided</u><br><u>Price is $50/mo. Per site</u>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Free Quote</li><li class=\"list-group-item\">Free changes</li><li class=\"list-group-item\">8:00AM-10:00PM support</li><li class=\"list-group-item\">Make your site apper on google.</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Free Quote</li><li class=\"list-group-item\">Free changes</li><li class=\"list-group-item\">8:00AM-10:00PM support</li><br></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label4": "HOT!",
           "title4": "Do Everything",
@@ -3197,8 +2984,378 @@
           "price4": "75",
           "period4": "/mo.",
           "description4": "<u>URL NOT provided</u><br><u>Cost is per site</u>",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Free Quote</li><li class=\"list-group-item\">Free Changes</li><li class=\"list-group-item\">8:00AM-10:00PM support</li><li class=\"list-group-item\">Make your site apper on google.</li><br><br><br><br></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Free Quote</li><li class=\"list-group-item\">Free Changes</li><li class=\"list-group-item\">8:00AM-10:00PM support</li><br></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        }
+      ]
+    },
+    "Repair Costs.html": {
+      "settings": {
+        "title": "Repair Costs- Budget IT",
+        "meta_descr": "Info on pricing"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-6",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-plan-title": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "Repair Costs",
+          "subtitle": "Base rates for devices. Does <b><u>not</u></b> include parts.<br>Prices can change from customer to customer depending on damage.",
+          "label1": "HOT!",
+          "title1": "Laptop",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "30",
+          "period1": "/per device.",
+          "description1": "We can fix your laptop and even upgrade the RAM or Hard Drive for just $30*<br>*<u>Does NOT include parts, Prices CAN change</u>",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">No extra cost for RAM install</span><br><li class=\"list-group-item\">Free OS install</li><li class=\"list-group-item\">Free Quote</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
+          "label2": "HOT!",
+          "title2": "Desktop",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "25",
+          "period2": "/per device.",
+          "description2": "We offer desktop part replacement and upgrading. We'll fix or repiar your desktop for just $25*<br>*<u>Does NOT include parts. Prices CAN change.</u>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Free Parts Instation</li><li class=\"list-group-item\">Free OS install</li><li class=\"list-group-item\">Free Quote</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
+          "label3": "HOT!",
+          "title3": "Phone",
+          "subtitle3": "",
+          "currency3": "$",
+          "price3": "35",
+          "period3": "/per device.",
+          "description3": "We'll fix your screen using&nbsp;Genuine or Off-Brand parts for $35*<br>*<u>Does NOT include parts. Prices CAN change.</u>",
+          "list3": "<ul class=\"list-group list-group-flush\">Free Jailbreak<br><li class=\"list-group-item\">Free rooting for </li><li class=\"list-group-item\">Android<span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Free Quote</span></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
+          "label4": "HOT!",
+          "title4": "Tablet / Other",
+          "subtitle4": "",
+          "currency4": "$",
+          "price4": "50",
+          "period4": "/per device.",
+          "description4": "We'll fix your screen using Genuine or Off-Brand parts for $50*<br><u>*Does NOT include parts. Prices CAN change.</u><br>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Free ROM for Android</li><li class=\"list-group-item\">Free Jailbreak</li><li class=\"list-group-item\">Free Quote</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#303030"
+          },
+          "text": "*Free options only availble with purchase (Excluding Quote). ROM install for select Android devices, Jailbreak only avalible to supported iPhones."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1g",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Created by Michael Havenga with Mobirise"
+        }
+      ]
+    },
+    "Site Map.html": {
+      "settings": {
+        "title": "Site Map- Budget IT",
+        "meta_descr": "Site Map"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-26",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Site Map",
+          "text": "<p>Quickly find what you're looking for.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#2e2e2e!important"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-24",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "devices",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-27",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><a href=\"index.html\"><u>Home</u></a></p><p><u><br></u></p><p><a href=\"Phone Repair.html\"><u>Phone Repair</u></a></p><p><u><br></u></p><p><a href=\"Computer Repair.html\"><u>Computer Repair</u></a></p><p><u><br></u></p><p><a href=\"Contact.html\"><u>Contact</u></a></p><p><u><br></u></p><p><a href=\"Repair Costs.html\"><u>Repair Costs</u></a></p><p><u><br></u></p><p><a href=\"Websites.html\"><u>Websites</u></a></p><p><u><br></u></p><p><a href=\"Cost for Website.html\"><u>Website Costs</u></a></p><p><u><br></u></p><p><a href=\"Custom PCs.html\"><u>Custom PCs</u></a></p><p><u><br></u></p><p><a href=\"Device drop off.html\"><u>Device Drop Off</u></a></p><p><u><br></u></p><p><a href=\"Pick Up.html\"><u>Device Pick Up</u></a></p><p><u><br></u></p><p><a href=\"Change Order.html\"><u>Change Order</u></a></p><p><u><br></u></p><p><u>Site Map</u></p><p><u><br></u></p><p><a href=\"Dev.html\"><u>Dev</u></a></p></blockquote>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-25",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Created by Michael Havenga with Mobirise"
         }
       ]
     }
