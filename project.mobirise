@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Custom PCs.html",
+    "currentPage": "Site Map.html",
     "name": "Budget IT",
     "theme": {
       "name": "mobirise3",
@@ -26,16 +26,17 @@
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/budget-it-ico-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/budget-it-ico-128x128-128x128-1.png",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home- Budget IT",
-        "meta_descr": "Main drop page for Budget IT",
+        "title": "Home- E-Con Repairs",
+        "meta_descr": "Offering both device repair and premium websites at a budget price.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -123,7 +124,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -148,7 +149,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Michael Havenga",
+          "title": "E-Con Repairs",
           "text": "Bringing low-cost solutions to expensive problems",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Computer Repair.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>Computer Repair</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Websites.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-website-theme mbr-iconfont mbr-iconfont-btn\"></span>Websites</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Custom PCs.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-desktop mbr-iconfont mbr-iconfont-btn\"></span>Custom PCs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Phone Repair.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Phone Repair</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Site Map.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>Site Map</a> "
         },
@@ -173,7 +174,7 @@
     },
     "Phone Repair.html": {
       "settings": {
-        "title": "Phone Repair- Budget IT",
+        "title": "Phone Repair- E-Con Repairs",
         "meta_descr": "Info on phone repairs"
       },
       "components": [
@@ -259,7 +260,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -453,7 +454,7 @@
     },
     "Computer Repair.html": {
       "settings": {
-        "title": "Computer Repair- Budget IT",
+        "title": "Computer Repair- E-con Repairs",
         "meta_descr": "Computer Repair Info"
       },
       "components": [
@@ -573,7 +574,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -717,7 +718,7 @@
     },
     "Contact.html": {
       "settings": {
-        "title": "Contact Info- Budget IT",
+        "title": "Contact Info- E-Con Repairs",
         "meta_descr": "Contact information"
       },
       "components": [
@@ -1028,7 +1029,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -1052,7 +1053,7 @@
     },
     "Websites.html": {
       "settings": {
-        "title": "Websites- Budget IT",
+        "title": "Websites- E-Con Repairs",
         "meta_descr": "Website creation at a budget"
       },
       "components": [
@@ -1197,7 +1198,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -1305,8 +1306,8 @@
               "newWindow": false
             }
           },
-          "title3": "Budget IT",
-          "subtitle3": "The Site You are currently looking at",
+          "title3": "E-Con Repairs",
+          "subtitle3": "The Site yo<b>u are currently</b> looking at",
           "caption3": "This website was created by us and is maintained purely by ourselves. Look no further for an example in our ability to make premium websites.",
           "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Home</a>",
           "media4": {
@@ -1376,7 +1377,7 @@
     },
     "Custom PCs.html": {
       "settings": {
-        "title": "Custom PCs- Budget IT",
+        "title": "Custom PCs- E-Con Repairs",
         "meta_descr": "Custom PCs for a budget"
       },
       "components": [
@@ -1496,7 +1497,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -1965,7 +1966,7 @@
     },
     "Device drop off.html": {
       "settings": {
-        "title": "Drop off- Budget IT",
+        "title": "Drop off- E-Con Repairs",
         "meta_descr": "Information about device drop off times and locations"
       },
       "components": [
@@ -2085,7 +2086,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -2207,7 +2208,7 @@
     },
     "Pick Up.html": {
       "settings": {
-        "title": "Pick-Up- Budget IT",
+        "title": "Pick-Up- E-Con Repairs",
         "meta_descr": "Pick-up info for devices"
       },
       "components": [
@@ -2327,7 +2328,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -2446,7 +2447,7 @@
     },
     "Change Order.html": {
       "settings": {
-        "title": "Change Order- Budget IT",
+        "title": "Change Order-E-Con Repairs",
         "meta_descr": "Change your order if you want to change parts or repairs"
       },
       "components": [
@@ -2532,7 +2533,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -2647,7 +2648,7 @@
     },
     "Dev.html": {
       "settings": {
-        "title": "Development- Budget IT",
+        "title": "Development- E-Con Repairs",
         "meta_descr": "Dev"
       },
       "components": [
@@ -2733,7 +2734,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -2795,7 +2796,7 @@
     },
     "Cost for Website.html": {
       "settings": {
-        "title": "Websites Cost- Budget IT",
+        "title": "Websites Cost- E-Con Repairs",
         "meta_descr": "Pricing info for website creation and adapt"
       },
       "components": [
@@ -2881,7 +2882,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -2994,7 +2995,7 @@
     },
     "Repair Costs.html": {
       "settings": {
-        "title": "Repair Costs- Budget IT",
+        "title": "Repair Costs- E-Con Repairs",
         "meta_descr": "Info on pricing"
       },
       "components": [
@@ -3080,7 +3081,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
@@ -3207,7 +3208,7 @@
     },
     "Site Map.html": {
       "settings": {
-        "title": "Site Map- Budget IT",
+        "title": "Site Map- E-Con Repairs",
         "meta_descr": "Site Map"
       },
       "components": [
@@ -3327,7 +3328,7 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Budget IT</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E-Con Repairs</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Pricing Info.html\">Cost Info</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">Contact</a></li>"
         },
         {
